@@ -11,7 +11,7 @@ de ces journaux pour extraire des informations utiles.
 
 ### 1. Clonez le dépôt :
    ```sh
-   git clone <url-du-depot>
+   git clone <https://github.com/rkouidria-fr/apache_log_analyzer.git>
    cd log_analyzer_project
    ```
 

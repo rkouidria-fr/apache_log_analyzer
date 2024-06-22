@@ -1,0 +1,14 @@
+Total requests: 2000
+Status counts:
+status
+404    691
+200    655
+500    654
+Name: count, dtype: int64
+Max requests from an IP: 361 from IP 192.168.1.1
+Min requests from an IP: 296 from IP 203.0.113.6
+Mean requests from an IP: 333.3333333333333
+The hour with the most requests: 12 with 101 requests
+The hour with the least requests: 23 with 68 requests
+The hour with the largest average request size: 7 with an average size of 2865.1739130434785 bytes
+The hour with the smallest average request size: 22 with an average size of 2228.7441860465115 bytes

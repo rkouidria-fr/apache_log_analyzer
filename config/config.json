@@ -1,0 +1,31 @@
+{
+    "LOG_GENERATION_IPS": [
+        "127.0.0.1",
+        "192.168.1.1",
+        "203.0.113.5",
+        "198.51.100.7",
+        "203.0.113.6",
+        "198.51.100.8"
+    ],
+    "LOG_GENERATION_REQUESTS": [
+        "GET /index.html HTTP/1.1",
+        "POST /submit-form HTTP/1.1",
+        "GET /about.html HTTP/1.1",
+        "GET /contact.html HTTP/1.1",
+        "GET /services.html HTTP/1.1",
+        "GET /products.html HTTP/1.1"
+    ],
+    "LOG_GENERATION_STATUS": [
+        200,
+        404,
+        500
+    ],
+    "LOG_GENERATION_MIN_SIZE": 100,
+    "LOG_GENERATION_MAX_SIZE": 5000,
+    "LOG_GENERATION_MAX_TIME_OFFSET_SECONDS": 86400,
+    "LOG_GENERATION_DEFAULT_FILENAME": "generated_access.log",
+    "RAW_LOGS_PATH": "datas/raw_logs",
+    "PROCESSED_LOG_PATH": "datas/processed_logs",
+    "CSV_PROCESSED_FILE": "processed_logs.csv",
+    "RESULT_FOLDER": "results"
+}

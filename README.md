@@ -1,6 +1,5 @@
-# Projet d'Analyseur de Journaux
-Ce projet combine la génération de journaux d'accès Apache et l'analyse
-de ces journaux pour extraire des informations utiles.
+# Projet d'Analyseur de Journaux APACHE
+Ce projet combine la génération de journaux d'accès Apache et l'analyse de ces journaux pour extraire des informations utiles.
 
 
 ## Installation
